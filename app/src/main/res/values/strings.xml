@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">병원봇</string>
+
+    <string name="speak_show">Hello!!</string>
+    <string name="status_show"></string>
+
+
+    <string name="current_speak_volume">speak volume is：</string>
+    <string name="in_wake_up_status">wake up state</string>
+    <string name="in_sleep_status">sleep state</string>
+
+</resources>
